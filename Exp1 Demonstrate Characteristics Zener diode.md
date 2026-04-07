@@ -31,18 +31,22 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bc2607b-7f5c-4be9-b246-95f201af4b14" />
 
 
 # TABULAR COLUMN & CALCULATION:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b745ef0-c20a-4600-aeeb-81c9c8e883c3" />
 
 # MODEL GRAPH:
 <img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
 # GRAPH:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bf7cd95-e1c4-4e8f-9b57-325a7e6d5085" />
 
 # RESULT:
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d4e0725-4a08-4262-bd50-5cb7ad576431" />
 
 
 
