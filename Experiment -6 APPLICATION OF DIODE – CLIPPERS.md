@@ -1,4 +1,4 @@
-# Experiment -6 APPLICATION OF DIODE – CLIPPERS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffc4ecd0-b8b9-4463-a58f-b9e7bd8f53be" /># Experiment -6 APPLICATION OF DIODE – CLIPPERS
 # Aim:
 To design and analyze diode clipper circuits
 # Components Required:
@@ -11,13 +11,17 @@ To design and analyze diode clipper circuits
 4. Do a similar procedure for the given clipper circuits.
 
 # Circuit Diagram & Model Graph:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e07107b6-1fc1-4e63-b9cf-cc2935df23f4" />
 
 
 # Tabular Column and Calculation:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1db75e5-8433-4c9d-9fff-8dd636a2f254" />
 
 # Graph:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c0872cc-b31b-4323-ba29-00a564903163" />
 
  # Result:
- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44fffd2b-87bf-4d8f-a96d-dd53a67048f9" />
+
