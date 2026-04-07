@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffc4ecd0-b8b9-4463-a58f-b9e7bd8f53be" /># Experiment -6 APPLICATION OF DIODE – CLIPPERS
+# Experiment -6 APPLICATION OF DIODE – CLIPPERS
 # Aim:
 To design and analyze diode clipper circuits
 # Components Required:
